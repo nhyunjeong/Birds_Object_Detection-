@@ -1,5 +1,12 @@
 # bird-Image_Classification(Object Detection) 
 
+**개발환경**
+1. window 10 
+2. python version 3.8.3
+3. jupyter notebook version 3.8.3
+4. Tensorflow version 2.8
+5. open cv version 4.5.5
+
 ## yolov4 
 
 1. **이론**
@@ -95,6 +102,8 @@
       ![alt text](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/1b6a426a-afc1-438c-838e-4defb02574aa/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221009%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221009T123947Z&X-Amz-Expires=86400&X-Amz-Signature=cf7da78d44bd768a70c5866c05d8585c48cbcbaad429c70b725efd7671eb9fbd&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
           
     ## 3. yolov4훈련 과정
+    
+      학습환경 : google colab GPU : GPU 0: Tesla T4 (UUID: GPU-54f3f42a-6726-4f85-9e1c-83a16956c61e)
     
       - 리눅스 명령어를 이용해 GPU , CUDNN 을 사용하겠다고 변경
       - 사물 검출에 필요한 코드(4가지) 를 GitHub 주소에서 다운 받습니다.   
