@@ -131,17 +131,17 @@
         모란앵무도 높음 
         ![test3](https://user-images.githubusercontent.com/95748637/194759993-79b21219-12fb-4292-93e5-5a98eb6540bf.png)
         
+        
         **모란앵무중 사랑앵무와 비슷한 모란앵무를 사랑앵무로 잘못 판단.**
         ![agapornis test](https://user-images.githubusercontent.com/95748637/194760035-1bddf66e-fba5-4d07-b516-ec1b8287cf5a.png)
+        
         
         참새(passer) 정확도 높음 
         ![passer_test](https://user-images.githubusercontent.com/95748637/194760600-b37c888d-daa2-47e3-886e-3b4940562550.png)
         
-        
        
-        
       - video detection 
-        
+        [결과](https://github.com/nhyunjeong/bird-classification-/issues/2#issue-1407356167)
         
       - wepcam detection 
       
@@ -156,7 +156,7 @@
     또한 까마귀같은 경우는 거의 검정색인 새의 실루엣 정도로 학습이 되었기 때문에 다른 새종류가 어둡게 나오는 경우 무조건 까마귀로 예측하게 되는 경우도 있습니다. 
      
     모란앵무와 사랑앵무의 차이는 육안으로 **콧구멍**이 보이는 새는 사랑앵무이고,  보이지 않는 새는 모란앵무인 것으로 판별이 가능하나, 아직 거기까지는 이미지 학습이 되지 않은것으로 보입니다. 
-    학습데이터가 다양해야한다는것과, 종에서도 색깔별로 조금더 클래스를 세분화 하여 학습시키면 더 명확하게 구별할 수 있을거라 생각한다. 
+    학습데이터가 다양해야한다는것과, 종에서도 색깔별로 조금더 클래스를 세분화 하여 학습시키면 더 명확하게 구별할 수 있을거라 생각합니다. . 
     
     ## 6. 결론 
     
