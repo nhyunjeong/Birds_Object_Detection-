@@ -4,8 +4,9 @@
 1. window 10 
 2. python version 3.8.3
 3. jupyter notebook version 3.8.3
-4. Tensorflow version 2.8
-5. open cv version 4.5.5
+4. google colab GPU : GPU 0: Tesla T4 (UUID: GPU-54f3f42a-6726-4f85-9e1c-83a16956c61e)
+5. Tensorflow version 2.8
+6. open cv version 4.5.5
 
 ## yolov4 
 
